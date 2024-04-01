@@ -18,7 +18,7 @@ public class operationspromotion {
         double v6 = (double)v5 / 4.0;
         System.out.println(v6);
         int x = 1;
-        int y = 2;
+        int y = 2; //
         double r = (double)x / (double)y;
         System.out.println(r);
     }

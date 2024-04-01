@@ -7,7 +7,7 @@ public class PromotionExample {
         char charvalue = '가';
         System.out.println("가의 유니코드" + charvalue);
         int intvalue = 50;
-        long longvalue = (long)intvalue;
+        long longvalue = (long)intvalue; //
         System.out.println("longvalue" + longvalue);
         longvalue = 100L;
         float floatvalue = (float)longvalue;

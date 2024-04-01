@@ -7,7 +7,7 @@ public class stringconcat {
         String str1 = "12";
         System.out.println(str1);
         String str2 = "18";
-        System.out.println(str2);
+        System.out.println(str2); //
         String str3 = "1028";
         System.out.println(str3);
         String str4 = "1010";

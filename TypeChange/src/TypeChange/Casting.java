@@ -7,7 +7,7 @@ public class Casting {
         System.out.println(charvalue);
         long longvalue = 500L;
         intvalue = (int)longvalue;
-        System.out.println(intvalue);
+        System.out.println(intvalue); //
         double doublevalue = 3.14;
         intvalue = (int)doublevalue;
         System.out.println(intvalue);
