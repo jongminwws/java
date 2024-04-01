@@ -7,6 +7,6 @@ public class byteoperation {
         byte x = 10;
         byte y = 20;
         int re = x + y;
-        System.out.println(re);
+        System.out.println(re); //
     }
 }
