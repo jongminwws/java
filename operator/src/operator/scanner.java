@@ -11,7 +11,7 @@ public class scanner {
         String num2 = scan.next();
         double parseNum1 = Double.parseDouble(num1);
         double parseNum2 = Double.parseDouble(num2);
-        if (parseNum2 != 0.0 && parseNum2 != 0.0) {
+        if (parseNum2 != 0 && parseNum2 != 0.0) {
             System.out.println("결과 : " + parseNum1 / parseNum2);
         } else {
             System.out.println(" 결과 무한대");
