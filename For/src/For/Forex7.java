@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Forex7 {
     public static void main(String[] args) {
         boolean run =true;
+
         int x = 0; // 잔금
         int z = 0; // 출금액
         int y = 0; // 예금액
