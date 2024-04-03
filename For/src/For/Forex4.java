@@ -9,7 +9,7 @@ public class Forex4 {
 //            System.out.println();
 //        }
         int i =0;
-        while (i < 10){
+        while (i < 5){
             int j=0;
             while (j <= i){
                 System.out.print("*");

@@ -11,4 +11,5 @@ public class Forex5 {
             }
             System.out.println();
         }
-    }}
+    }
+}
