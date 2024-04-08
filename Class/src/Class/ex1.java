@@ -9,6 +9,7 @@ public class ex1 {
 
     //매겨 변수 2개인 생성자
     ex1(String title,String content){
+        //마지막 라인 매개변수 5개인 생성자 호출
         this(title,content,"홍길동","2024-04-08",0);
 //        this.title = title;
 //        this.content = content;
@@ -18,6 +19,7 @@ public class ex1 {
     }
     //매겨 변수 3개인 생성자
     ex1(String title,String content,String writer){
+        //마지막 라인 매개변수 5개인 생성자 호출
         this(title,content,writer,"2024-04-08",0);
 //        this.title = title;
 //        this.content = content;
@@ -27,6 +29,7 @@ public class ex1 {
     }
     //매겨 변수 4개인 생성자
     ex1(String title,String content,String writer,String date){
+        //마지막 라인 매개변수 5개인 생성자 호출
         this(title,content,writer,date,0);
 //        this.title = title;
 //        this.content = content;
