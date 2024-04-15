@@ -9,7 +9,7 @@ public class Account3 {
         account.setBalance(12500);
         System.out.println(account.getBalance());
 
-        account.setBalance(10000000); // 100만보다 크니깐 이전 값 출력
+        account.setBalance(10000000); // 100만보다 크니깐 이전 값 출력 1
         System.out.println(account.getBalance());
 
         account.setBalance(-10000000); // 0보다 작으니깐 이전 값 출력

@@ -15,7 +15,7 @@ public class Account {
         return balance;
     }
     
-    // 상수선언
+    // 상수선언 1
     final static int MIN_BALANCE = 0;
     final static int MAX_BALANCE = 1000000;
 
