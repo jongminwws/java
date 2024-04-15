@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/Type/Type.iml" filepath="$PROJECT_DIR$/Type/Type.iml" />
       <module fileurl="file://$PROJECT_DIR$/TypeChange/TypeChange.iml" filepath="$PROJECT_DIR$/TypeChange/TypeChange.iml" />
       <module fileurl="file://$PROJECT_DIR$/While/While.iml" filepath="$PROJECT_DIR$/While/While.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/jmjava.iml" filepath="$PROJECT_DIR$/.idea/jmjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/operator/operator.iml" filepath="$PROJECT_DIR$/operator/operator.iml" />
     </modules>
