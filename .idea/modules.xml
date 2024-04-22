@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/exam/exam.iml" filepath="$PROJECT_DIR$/exam/exam.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfacePromotion/interfacePromotion.iml" filepath="$PROJECT_DIR$/interfacePromotion/interfacePromotion.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/jmjava.iml" filepath="$PROJECT_DIR$/.idea/jmjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/operator/operator.iml" filepath="$PROJECT_DIR$/operator/operator.iml" />
       <module fileurl="file://$PROJECT_DIR$/promotion/promotion.iml" filepath="$PROJECT_DIR$/promotion/promotion.iml" />
