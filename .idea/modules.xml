@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/jmjava.iml" filepath="$PROJECT_DIR$/.idea/jmjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/operator/operator.iml" filepath="$PROJECT_DIR$/operator/operator.iml" />
       <module fileurl="file://$PROJECT_DIR$/promotion/promotion.iml" filepath="$PROJECT_DIR$/promotion/promotion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trycatchfinally/trycatchfinally.iml" filepath="$PROJECT_DIR$/trycatchfinally/trycatchfinally.iml" />
     </modules>
   </component>
 </project>
