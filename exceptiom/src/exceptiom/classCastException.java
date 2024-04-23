@@ -6,7 +6,7 @@ public class classCastException {
         ChangeDog(dog);
 
         Cat cat = new Cat();
-        ChangeCat(cat);
+//        ChangeCat(cat);
     }
     public static void ChangeDog(Animal animal) {
         //if (animal instanceof Dog) {
